@@ -16,4 +16,3 @@ pip3 install requests
 echo DISCORD_TOKEN > token.conf
 python3 bot.py
 ```
-# rudra_dsc
